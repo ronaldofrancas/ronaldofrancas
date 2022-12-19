@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML5, CSS3 and Javascript(ES6).
 - 💞️ I’m looking to collaborate on any project that requires these skills.
 - 📫 E-mail: ronaldofrancajr@gmail.com
-- ❇️ Whatsapp: <a href="https://wa.me/5571991863467">📞(71) 99186-3467</a>
 
 <!---
 ronaldofrancas/ronaldofrancas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
