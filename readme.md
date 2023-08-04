@@ -2,11 +2,11 @@
 
 <hr>
 
-#### Bem vindo ao meu perfil
+### Bem vindo ao meu perfil
 
-- ##### 🔭 Atualmente, estou estudando na *Kenzie Academy Brasil*;
-- ##### 🌱 Atualmente, estou aprendendo *Express* e *PostgreSQL*;
-- ##### ⚡ Me pergunte sobre *futebol, filmes, séries e animes*.
+- #### 🔭 Atualmente, estou estudando na *Kenzie Academy Brasil*;
+- #### 🌱 Atualmente, estou aprendendo *Express* e *PostgreSQL*;
+- #### ⚡ Me pergunte sobre *futebol, filmes, séries e animes*.
 
 <hr>
 
@@ -76,11 +76,11 @@
 <!-- Seção: Contato -->  
 <h3>📭 Contato</h3>
 <!-- Gmail --> 
-<a href="mailto:ronaldofrancajr@gmail.com" target="_blank">
+<a href="mailto:ronaldofrancajr@gmail.com">
   <img title="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <!-- LinkedIn -->  
-<a href="https://www.linkedin.com/in/ronaldofrancas/" target="_blank">
+<a href="https://www.linkedin.com/in/ronaldofrancas/">
   <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
