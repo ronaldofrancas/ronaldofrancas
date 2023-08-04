@@ -4,8 +4,8 @@
 
 #### Bem vindo ao meu perfil
 
-- ##### 🔭 Atualmente, estou estudando na *Kenzie Academy Brasil*
-- ##### 🌱 Atualmente, estou aprendendo *Express* e *PostgreSQL*
+- ##### 🔭 Atualmente, estou estudando na *Kenzie Academy Brasil*;
+- ##### 🌱 Atualmente, estou aprendendo *Express* e *PostgreSQL*;
 - ##### ⚡ Me pergunte sobre *futebol, filmes, séries e animes*.
 
 <hr>
