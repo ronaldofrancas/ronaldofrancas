@@ -39,7 +39,7 @@
 
 <!-- Commits -->
 <a href="#">
-  <img loading="lazy" width="295" src="https://github-readme-stats.vercel.app/api?username=ronaldofrancas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" width="294" src="https://github-readme-stats.vercel.app/api?username=ronaldofrancas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
     
 <h3>📊 Gráfico de Contribuições</h3>
