@@ -1,12 +1,11 @@
-### 👋 Olá, visitante!
+<h3>👋 Olá, visitante!</h3>
 
 <hr>
 
-### Bem vindo ao meu perfil
+<h3>Bem vindo ao meu perfil</h3>
 
-- #### 🔭 Atualmente, estou estudando na *Kenzie Academy Brasil*;
-- #### 🌱 Atualmente, estou aprendendo *Express* e *PostgreSQL*;
-- #### ⚡ Me pergunte sobre *futebol, filmes, séries e animes*.
+- #### Atualmente, estou estudando na *Kenzie Academy Brasil*;
+- #### Atualmente, estou aprendendo *SQL* e *Express*.
 
 <hr>
 
