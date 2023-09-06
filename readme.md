@@ -38,6 +38,34 @@
 
 <hr>
 
+<h3>📘 Favorite Projects</h3>
+<!-- Repositórios -->
+<p>
+  <!-- Open Music -->
+  <a href="https://github.com/ronaldofrancas/open-music">
+    <img width="265" title="Open Music" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldofrancas&repo=open-music&theme=react&bg_color=1F222E">
+  </a>
+
+  <!-- Tech Posters -->
+  <a href="https://github.com/ronaldofrancas/tech-posters">
+    <img width="265" title="Tech Posters" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldofrancas&repo=tech-posters&theme=react&bg_color=1F222E">
+  </a>
+
+  <!-- Control Finance -->
+  <a href="https://github.com/ronaldofrancas/control-finance">
+    <img width="265" title="Control Finance" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldofrancas&repo=control-finance&theme=react&bg_color=1F222E">
+  </a>
+</p>
+
+<!-- Ver Mais -->
+<p>
+  <a href="https://github.com/ronaldofrancas?tab=repositories&sort=stargazers">
+    <img title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repositories%20-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</p>
+
+<hr>
+
 <h3>📭 Contact</h3>
 <!-- Gmail --> 
 <a href="mailto:ronaldofrancajr@gmail.com">
