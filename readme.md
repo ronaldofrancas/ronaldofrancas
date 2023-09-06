@@ -43,17 +43,17 @@
 <p>
   <!-- Open Music -->
   <a href="https://github.com/ronaldofrancas/open-music">
-    <img title="Open Music" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldofrancas&repo=open-music&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
+    <img width="265" title="Open Music" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldofrancas&repo=open-music&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
   </a>
   
   <!-- Tech Posters -->
   <a href="https://github.com/ronaldofrancas/tech-posters">
-    <img title="Tech Posters" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldofrancas&repo=tech-posters&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
+    <img width="265" title="Tech Posters" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldofrancas&repo=tech-posters&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
   </a>
   
   <!-- Control Finance -->
   <a href="https://github.com/ronaldofrancas/control-finance">
-    <img title="Control Finance" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldofrancas&repo=control-finance&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
+    <img width="265" title="Control Finance" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldofrancas&repo=control-finance&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
   </a>
 </p>
 
