@@ -1,7 +1,7 @@
 <h3>👋 Hello, visitor!</h3>
 <h4>Welcome to my profile.</h4>
 
-- ##### *I'm currently learning SQL, Express and TypeORM*.
+- ##### *I'm currently learning Python*.
 - ##### *Brazilian Popular Music (MPB) is the musical genre that I listen to the most*.
 
 <hr>
