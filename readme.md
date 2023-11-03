@@ -1,16 +1,10 @@
 <h3>👋 Hello, visitor!</h3>
 <h4>Welcome to my profile.</h4>
 
-- ##### *I'm currently learning Python*.
+- ##### *I'm currently learning Python and Django*.
 - ##### *Brazilian Popular Music (MPB) is the musical genre that I listen to the most*.
 
 <hr>
-
-<h3>👨‍💻 Languages</h3>
-  <!-- Javascript -->
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <!-- Typescript -->
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 
 <h3>💻 Most Used Tools</h3>
   <!-- Git -->
@@ -28,9 +22,19 @@
   <!-- Express -->
   <a href="#"><img src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
 
+<h3>👨‍💻 Languages</h3>
+  <!-- Python -->
+  <a href="#"><img src="https://img.shields.io/badge/Python-FAF7DC.svg?logo=python&logoColor=blue"></a>
+  <!-- Javascript -->
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <!-- Typescript -->
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+
 <h3>🗄️ Databases and Cloud Hosting</h3>
   <!-- Vercel -->
   <a href="#"><img src="https://img.shields.io/badge/Vercel-white.svg?logo=vercel&logoColor=black"></a>
+  <!-- Render -->
+  <a href="#"><img src="https://img.shields.io/badge/Render-white.svg?logo=render&logoColor=blue"></a>
   <!-- PostgreSQL -->
   <a href="#"><img src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
   <!-- Github Pages -->
