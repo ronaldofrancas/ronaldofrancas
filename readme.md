@@ -1,82 +1,50 @@
-<h3>👋 Hello, visitor!</h3>
-<h4>Welcome to my profile.</h4>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- ##### *I'm currently improving my skills in Node and Express*.
-- ##### *Brazilian Popular Music (MPB) is the musical genre that I listen to the most*.
+```js
+import Desenvolvedor from "ronaldofrancas";
 
-<hr>
+class SobreMim extends Desenvolvedor {
+  nome = "Ronaldo França";
+  area = "Desenvolvedor Front-End";
+}
 
-<h3>💻 Most Used Tools</h3>
-  <!-- Git -->
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-  <!-- Node -->
-  <a href="#"><img src="https://img.shields.io/badge/Node-43853D.svg?logo=node.js&logoColor=white"></a>
-  <!-- DBeaver -->
-  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-DBeaver-372923.svg?logo=dbeaver-mono&logoColor=white"></a>
-
-<h3>🧰 Libraries and Frameworks</h3>
-  <!-- React -->
-  <a href="#"><img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-  <!-- Django -->
-  <a href="#"><img src="https://img.shields.io/badge/Django-white.svg?logo=django&logoColor=%2361DAFB"></a>
-  <!-- Express -->
-  <a href="#"><img src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
-
-<h3>👨‍💻 Languages</h3>
-  <!-- Python -->
-  <a href="#"><img src="https://img.shields.io/badge/Python-FAF7DC.svg?logo=python&logoColor=blue"></a>
-  <!-- Javascript -->
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <!-- Typescript -->
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-
-<h3>🗄️ Databases and Cloud Hosting</h3>
-  <!-- Vercel -->
-  <a href="#"><img src="https://img.shields.io/badge/Vercel-white.svg?logo=vercel&logoColor=black"></a>
-  <!-- Render -->
-  <a href="#"><img src="https://img.shields.io/badge/Render-white.svg?logo=render&logoColor=blue"></a>
-  <!-- PostgreSQL -->
-  <a href="#"><img src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-  <!-- Github Pages -->
-  <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+class Habilidades extends Desenvolvedor {
+  linguagens = ["Python, Javascript, Typescript"];
+  ferramentas = ["Git, Node, DBeaver, Insomnia"];
+  bibliotecas = ["React, Django, Express"];
+  bancos_de_dados = ["SQLite, PostgreSQL"];
+}
+```
+#### 👋 *Olá, visitante!*
 
 <hr>
 
-<h3>📘 Favorite Projects</h3>
-<!-- Repositórios -->
-<p>
-  <!-- Open Music -->
-  <a href="https://github.com/ronaldofrancas/open-music">
-    <img width="265" title="Open Music" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldofrancas&repo=open-music&theme=react&bg_color=1F222E">
-  </a>
+Sou um profissional com um perfil moderado, caracterizado por uma abordagem calma e equilibrada no ambiente de trabalho. Minha personalidade analítica e racional me leva a valorizar a qualidade e a precisão em tudo o que faço. Tenho uma forte capacidade de análise e um compromisso em levar os projetos que abraço até sua conclusão, demonstrando paciência e perseverança no processo. 
 
-  <!-- Tech Posters -->
-  <a href="https://github.com/ronaldofrancas/tech-posters">
-    <img width="265" title="Tech Posters" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldofrancas&repo=tech-posters&theme=react&bg_color=1F222E">
-  </a>
+Minha proficiência em JavaScript e TypeScript me permite criar funcionalidades complexas em aplicações web, bem como melhorar a legibilidade e a manutenção do código. Com meu conhecimento em React, sou capaz de desenvolver aplicações web modernas e responsivas, proporcionando interatividade e dinamismo aos usuários. 
 
-  <!-- Control Finance -->
-  <a href="https://github.com/ronaldofrancas/control-finance">
-    <img width="265" title="Control Finance" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldofrancas&repo=control-finance&theme=react&bg_color=1F222E">
-  </a>
+Minhas habilidades em Node e Express me capacitam a criar servidores robustos e escaláveis, fundamentais para o desenvolvimento de aplicativos web de alto desempenho. Minha experiência com Git Flow facilita o gerenciamento de diferentes versões de código, o que é essencial para o trabalho colaborativo em equipes de desenvolvimento. 
+
+Essas habilidades me permitem assumir um papel integral no desenvolvimento de aplicações web abrangentes, desde a criação de interfaces atraentes até a gestão de dados e servidores, contribuindo para projetos tecnológicos de alta qualidade e sucesso. Estou comprometido em atingir resultados excepcionais e em contribuir positivamente em equipes de desenvolvimento. 
+
+<hr>
+
+#### ⚙️ *Atualmente, estou aprimorando minhas habilidades em*:
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="40"/></a>
+
+<hr>
+
+#### 📪 *Interessados em meu trabalho, entre em contato*:
+<p align="left">
+  <a href="mailto:ronaldofrancajr@gmail.com">
+  <img title="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+  <a href="https://www.linkedin.com/in/ronaldofrancas/">
+  <img  title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+  <a href="https://www.instagram.com/ronaldofrancas/">
+  <img  title="Instagram" src="https://img.shields.io/badge/Instagram-da1b47?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-
-<!-- Ver Mais -->
-<p>
-  <a href="https://github.com/ronaldofrancas?tab=repositories&sort=stargazers">
-    <img title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repositories%20-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</p>
-
-<hr>
-
-<h3>📭 Contact</h3>
-<!-- Gmail --> 
-<a href="mailto:ronaldofrancajr@gmail.com">
-  <img title="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<!-- LinkedIn -->  
-<a href="https://www.linkedin.com/in/ronaldofrancas/">
-  <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
