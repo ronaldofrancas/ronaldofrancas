@@ -44,7 +44,4 @@ Essas habilidades me permitem assumir um papel integral no desenvolvimento de ap
 
   <a href="https://www.linkedin.com/in/ronaldofrancas/">
   <img  title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-  <a href="https://www.instagram.com/ronaldofrancas/">
-  <img  title="Instagram" src="https://img.shields.io/badge/Instagram-da1b47?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
