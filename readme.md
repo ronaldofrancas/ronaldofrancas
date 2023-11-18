@@ -37,7 +37,7 @@ Essas habilidades me permitem assumir um papel integral no desenvolvimento de ap
 
 <hr>
 
-#### 📪 *Interessados em meu trabalho, entre em contato*:
+#### 📪 *Interessados em meu trabalho, entrem em contato*:
 <p align="left">
   <a href="mailto:ronaldofrancajr@gmail.com">
   <img title="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
