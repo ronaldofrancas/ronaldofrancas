@@ -1,7 +1,7 @@
 <h3>👋 Hello, visitor!</h3>
 <h4>Welcome to my profile.</h4>
 
-- ##### *I'm currently learning Python and Django*.
+- ##### *I'm currently improving my skills in Node and Express*.
 - ##### *Brazilian Popular Music (MPB) is the musical genre that I listen to the most*.
 
 <hr>
@@ -12,13 +12,13 @@
   <!-- Node -->
   <a href="#"><img src="https://img.shields.io/badge/Node-43853D.svg?logo=node.js&logoColor=white"></a>
   <!-- DBeaver -->
-  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-DBeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-DBeaver-372923.svg?logo=dbeaver-mono&logoColor=white"></a>
 
 <h3>🧰 Libraries and Frameworks</h3>
-  <!-- Next -->
-  <a href="#"><img src="https://img.shields.io/badge/Next-white?logo=nextdotjs&logoColor=black"></a>
   <!-- React -->
   <a href="#"><img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  <!-- Django -->
+  <a href="#"><img src="https://img.shields.io/badge/Django-white.svg?logo=django&logoColor=%2361DAFB"></a>
   <!-- Express -->
   <a href="#"><img src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
 
