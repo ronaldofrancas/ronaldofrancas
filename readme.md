@@ -3,7 +3,7 @@
 ```js
 import Desenvolvedor from "ronaldofrancas";
 
-class SobreMim extends Desenvolvedor {
+class Sobre extends Desenvolvedor {
   nome = "Ronaldo França";
   area = "Desenvolvedor Front-End";
 }
