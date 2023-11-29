@@ -1,18 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ```js
-import Desenvolvedor from "ronaldofrancas";
+import Developer from "ronaldofrancas";
 
-class Sobre extends Desenvolvedor {
-  nome = "Ronaldo França";
+class About extends Developer {
+  name = "Ronaldo França";
   area = "Desenvolvedor Front-End";
 }
 
-class Habilidades extends Desenvolvedor {
-  linguagens = ["Python, Javascript, Typescript"];
-  ferramentas = ["Git, Node, DBeaver, Insomnia"];
-  bibliotecas = ["React, Django, Express"];
-  bancos_de_dados = ["SQLite, PostgreSQL"];
+class Skills extends Developer {
+  frameworks = ["Nest, React, Prisma, Django, Express"];
+  languages = ["Python, Javascript, Typescript"];
+  databases = ["SQLite, PostgreSQL"];
 }
 ```
 #### 👋 *Olá, visitante!*
