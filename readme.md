@@ -9,9 +9,10 @@ class About extends Developer {
 }
 
 class Skills extends Developer {
-  frameworks = ["Nest, React, Prisma, Django, Express"];
   languages = ["Python, Javascript, Typescript"];
+  frameworks = ["React, Django, Express"];
   databases = ["SQLite, PostgreSQL"];
+  orm = ["Prisma, TypeORM"];
 }
 ```
 #### 👋 *Olá, visitante!*
@@ -29,10 +30,9 @@ Essas habilidades me permitem assumir um papel integral no desenvolvimento de ap
 <hr>
 
 #### ⚙️ *Atualmente, estou aprimorando minhas habilidades em*:
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="40"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="40"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="40"/></a>
 
 <hr>
 
