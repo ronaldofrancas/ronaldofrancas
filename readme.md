@@ -5,42 +5,42 @@ import Developer from "ronaldofrancas";
 
 class About extends Developer {
   name = "Ronaldo França";
-  area = "Desenvolvedor Front-End";
+  area = "Desenvolvedor Full Stack";
 }
 
 class Skills extends Developer {
   languages = ["Python, Javascript, Typescript"];
-  frameworks = ["React, Django, Express"];
+  frameworks = ["Nest, React, Django, Express"];
   databases = ["SQLite, PostgreSQL"];
   orm = ["Prisma, TypeORM"];
+}
+
+class Learning extends Developer {
+  frameworks = ["Next", "Tailwind CSS"];
 }
 ```
 #### 👋 *Olá, visitante!*
 
 <hr>
 
-Sou um profissional com um perfil moderado, caracterizado por uma abordagem calma e equilibrada no ambiente de trabalho. Minha personalidade analítica e racional me leva a valorizar a qualidade e a precisão em tudo o que faço. Tenho uma forte capacidade de análise e um compromisso em levar os projetos que abraço até sua conclusão, demonstrando paciência e perseverança no processo. 
+Tenho um perfil caracterizado por uma abordagem equilibrada e consistente no ambiente de trabalho, comprometido em buscar soluções que contribuam positivamente para com pessoas e empresas. 
 
-Minha proficiência em JavaScript e TypeScript me permite criar funcionalidades complexas em aplicações web, bem como melhorar a legibilidade e a manutenção do código. Com meu conhecimento em React, sou capaz de desenvolver aplicações web modernas e responsivas, proporcionando interatividade e dinamismo aos usuários. 
+Tenho uma forte capacidade de análise e valorizo precisão e qualidade em tudo que me proponho a fazer. Minha experiência em linguagens como Python, Javascript e Typescript me permite desenvolver códigos legíveis, escaláveis e de fácil manutenção. 
 
-Minhas habilidades em Node e Express me capacitam a criar servidores robustos e escaláveis, fundamentais para o desenvolvimento de aplicativos web de alto desempenho. Minha experiência com Git Flow facilita o gerenciamento de diferentes versões de código, o que é essencial para o trabalho colaborativo em equipes de desenvolvimento. 
+Minha proficiência em frameworks como Next e React me possibilita criar aplicações modernas e responsivas com alta performance, promovendo uma experiência dinâmica e interativa aos usuários. 
 
-Essas habilidades me permitem assumir um papel integral no desenvolvimento de aplicações web abrangentes, desde a criação de interfaces atraentes até a gestão de dados e servidores, contribuindo para projetos tecnológicos de alta qualidade e sucesso. Estou comprometido em atingir resultados excepcionais e em contribuir positivamente em equipes de desenvolvimento. 
-
-<hr>
-
-#### ⚙️ *Atualmente, estou aprimorando minhas habilidades em*:
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="40"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="40"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="40"/></a>
+Minha expertise em ORM e SQL torna fácil o processo de comunicação entre aplicações e bancos de dados. Além disso, tenho buscado me aprimorar na construção de APIs que combinem elementos de POO e programação funcional.
 
 <hr>
 
-#### 📪 *Interessados em meu trabalho, entrem em contato*:
+#### 📪 *Para mais informações, entrem em contato*:
 <p align="left">
   <a href="mailto:ronaldofrancajr@gmail.com">
   <img title="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
   <a href="https://www.linkedin.com/in/ronaldofrancas/">
   <img  title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  
+  <a href="https://drive.google.com/file/d/1jj4DONltgYnVq1yh7VAbm-cDAPT61tVZ/view?usp=sharing">
+  <img  title="Curriculum" src="https://img.shields.io/badge/Curriculum-gray?style=for-the-badge&logo=googledrive&logoColor=white" alt="Curriculum"/></a>
 </p>
