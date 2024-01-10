@@ -41,6 +41,6 @@ Minha expertise em ORM e SQL torna fácil o processo de comunicação entre apli
   <a href="https://www.linkedin.com/in/ronaldofrancas/">
   <img  title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   
-  <a href="https://drive.google.com/file/d/1jj4DONltgYnVq1yh7VAbm-cDAPT61tVZ/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1X3w8kB_kkAbtCQiX5_OtRQwzx7irkBoD/view?usp=drive_link">
   <img  title="Curriculum" src="https://img.shields.io/badge/Curriculum-gray?style=for-the-badge&logo=googledrive&logoColor=white" alt="Curriculum"/></a>
 </p>
