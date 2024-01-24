@@ -44,6 +44,6 @@ Minha expertise em ORM e SQL torna fácil o processo de comunicação entre apli
   <a href="https://portfolio-ronaldofrancas.vercel.app">
   <img  title="Portfólio" src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   
-  <a href="https://www.canva.com/design/DAF5a9R7xEk/iJ34PAkbLTTyY7TGvsu0-Q/edit?utm_content=DAF5a9R7xEk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+  <a href="https://drive.google.com/file/d/1-GIQicQLmL5v9tmlpTgNUmcgqRRVwS7P/view?usp=sharing">
   <img  title="Curriculum" src="https://img.shields.io/badge/Curriculum-gray?style=for-the-badge&logo=googledrive&logoColor=white" alt="Curriculum"/></a>
 </p>
