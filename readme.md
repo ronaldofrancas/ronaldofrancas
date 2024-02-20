@@ -5,35 +5,33 @@ import Developer from "ronaldofrancas";
 
 class About extends Developer {
   name = "Ronaldo França";
-  area = "Desenvolvedor Full Stack";
+  area = "Desenvolvedor Web Full Stack";
 }
 
 class Skills extends Developer {
+  frameworks = ["Next, Nest, React, Django, Express"];
   languages = ["Python, Javascript, Typescript"];
-  frameworks = ["Nest, React, Django, Express"];
   databases = ["SQLite, PostgreSQL"];
-  orm = ["Prisma, TypeORM"];
+  orm = ["Prisma, TypeORM"]
 }
 
 class Learning extends Developer {
-  frameworks = ["Next", "Tailwind CSS"];
+  frameworks = ["Vue, Angular"]
 }
 ```
 #### 👋 *Olá, visitante!*
 
 <hr>
 
-Tenho um perfil caracterizado por uma abordagem equilibrada e consistente no ambiente de trabalho, comprometido em buscar soluções que contribuam positivamente para com pessoas e empresas. 
+Minha experiência em linguagens como Python, Javascript e Typescript me possibilita desenvolver códigos legíveis, escaláveis e de fácil manutenção. 
 
-Tenho uma forte capacidade de análise e valorizo precisão e qualidade em tudo que me proponho a fazer. Minha experiência em linguagens como Python, Javascript e Typescript me permite desenvolver códigos legíveis, escaláveis e de fácil manutenção. 
-
-Minha proficiência em frameworks como Next e React me possibilita criar aplicações modernas e responsivas com alta performance, promovendo uma experiência dinâmica e interativa aos usuários. 
+Minha proficiência em frameworks como Next e React me permite criar aplicações modernas e responsivas com alta performance, promovendo uma experiência dinâmica e interativa aos usuários. 
 
 Minha expertise em ORM e SQL torna fácil o processo de comunicação entre aplicações e bancos de dados. Além disso, tenho buscado me aprimorar na construção de APIs que combinem elementos de POO e programação funcional.
 
 <hr>
 
-#### 📪 *Para mais informações, entrem em contato*:
+#### 📪 *Para mais informações, clique nos botões abaixo*:
 <p align="left">
   <a href="mailto:ronaldofrancajr@gmail.com">
   <img title="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
